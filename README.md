@@ -5,6 +5,6 @@
 - 📫 You can reach me at corey.casanova1989@outlook.com
 
 <!---
-daddycas703/daddycas703 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+daddycas703 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
